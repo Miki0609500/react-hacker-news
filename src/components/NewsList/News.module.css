@@ -1,0 +1,17 @@
+.time {
+  margin-right: 10px;
+  margin-left: 15px;
+  color: #595959;
+  font-size: 13px;
+  text-align: "center";
+}
+
+.link {
+  font-size: 18px;
+  color: #000;
+  margin-right: 5px;
+}
+
+.link:hover {
+  color: #346eb8;
+}
